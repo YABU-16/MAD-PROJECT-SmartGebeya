@@ -14,11 +14,11 @@ The project aims to address challenges faced by small merchants and consumers wh
 
 | **Member Name**      | **ID / Budget** | **Role / Responsibility**                             |
 | -------------------- | --------------- | ----------------------------------------------------- |
-| **Yeabsira Tamirat** | 3848/16         | Program director, project manager, engagement officer |
-| **Dereje Degefu**    | 1808/16         | Venue hire, workshop materials, refreshments          |
-| **Henok Beyene**     | 2394/16         | UI/UX Implementation Lead        |
-| **Endalew Gedefaw**  | 1961/16          | Data collection, surveys, analysis, reporting         |
-| **Abraham Ayssa**    | 0050/15          | Travel, office supplies, coordination support         |
+| **Yeabsira Tamirat** | 3848/16         | Core Logic & Services Lead |
+| **Dereje Degefu**    | 1808/16         | Network & API Lead          |
+| **Henok Beyene**     | 2394/16         | Database & State Lead        |
+| **Endalew Gedefaw**  | 1961/16          | DevOps & Testing Lead          |
+| **Abraham Ayssa**    | 0050/15          | Core Logic & Services Lead         |
 | **Maya Elias**       | 2805/16         |   UI/UX Implementation Lead                              |
 
 
