@@ -25,7 +25,7 @@ The project aims to address challenges faced by small merchants and consumers wh
 🎨 Figma Design Board
 
 👉 View UI/UX Design:
-🔗 https://figma.com/your-figma-link
+[🔗 https://figma.com/your-figma-link](https://www.figma.com/design/EytA7qoA0Mfp4zyy22GK3X/SMARTGEBEYA?node-id=0-1&t=NSEks6CRkzgMK7wS-1)
 
 
 📋 Jira Project Board
