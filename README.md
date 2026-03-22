@@ -34,19 +34,19 @@ https://yeab.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selecte
 
 🛠️ Technology Stack
 
-Programming Language:    Java
+Programming Language:      Java
 
-UI Design:               XML (Android Layout System)
+UI Design:                 XML (Android Layout System)
 
-IDE:                     Android Studio
+IDE:                       Android Studio
 
-Backend Services:        Firebase Authentication & Firebase Realtime Database / Firestore
+Backend Services:          Firebase Authentication & Firebase Realtime Database / Firestore
 
-Version Control:         Git & GitHub
+Version Control:           Git & GitHub
 
-🚀 Key Features (Planned)
+🚀 Key Features
 
-👤 User Registration & Login (Firebase Authentication)
+👤 User Registration & Login
 
 🛍️ Product Listing & Management
 
