@@ -16,10 +16,10 @@ The project aims to address challenges faced by small merchants and consumers wh
 | -------------------- | --------------- | ----------------------------------------------------- |
 | **Yeabsira Tamirat** | 3848/16         | Program director, project manager, engagement officer |
 | **Dereje Degefu**    | 1808/16         | Venue hire, workshop materials, refreshments          |
-| **Henok Beyene**     | 2394/16         | Newsletters, digital tools, publicity materials       |
-| **Endalew Gedefaw**  | $5,000          | Data collection, surveys, analysis, reporting         |
-| **Abraham Ayssa**    | $7,000          | Travel, office supplies, coordination support         |
-| **Maya Elias**       | $50,000         | — (Role not specified)                                |
+| **Henok Beyene**     | 2394/16         | UI/UX Implementation Lead        |
+| **Endalew Gedefaw**  | 1961/16          | Data collection, surveys, analysis, reporting         |
+| **Abraham Ayssa**    | 0050/15          | Travel, office supplies, coordination support         |
+| **Maya Elias**       | 2805/16         |   UI/UX Implementation Lead                              |
 
 
 🎨 Figma Design Board
