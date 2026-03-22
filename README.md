@@ -12,7 +12,7 @@ The project aims to address challenges faced by small merchants and consumers wh
 
 ## 👨‍💻 Team Members & Technical Roles
 
-| **Member Name**      | **ID / Budget** | **Role / Responsibility**                             |
+| **Member Name**      | **ID **         | **Role / Responsibility**                             |
 | -------------------- | --------------- | ----------------------------------------------------- |
 | **Yeabsira Tamirat** | 3848/16         | Core Logic & Services Lead |
 | **Dereje Degefu**    | 1808/16         | Network & API Lead          |
