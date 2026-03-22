@@ -31,9 +31,6 @@ The project aims to address challenges faced by small merchants and consumers wh
 📋 Jira Project Board
 https://yeab.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-3
 
-👉 Project Management Board:
-🔗 https://jira.com/your-jira-link
-
 
 🛠️ Technology Stack
 
